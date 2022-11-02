@@ -1,11 +1,6 @@
 # CryptoBoty
 
 
-Bot Crypto
-
-
-
-
 CONFIGURATION
 
 Signup for Binance
