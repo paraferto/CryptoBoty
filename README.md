@@ -5,7 +5,7 @@ Free BINANCE.COM Crypto Bot
 
 
 
-CONFIGURATION
+<CONFIGURATION>
 
 Signup for Binance
 
