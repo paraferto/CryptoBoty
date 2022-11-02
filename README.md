@@ -1,5 +1,9 @@
 # CryptoBoty
 
+Free BINANCE.COM Crypto Bot
+
+
+
 
 CONFIGURATION
 
